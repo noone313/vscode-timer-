@@ -9,3 +9,5 @@ The purpose of this program is to automate several tasks upon execution:
 3. **Stopping the Timer and Printing Final Time**: The program also includes a button to stop the timer when the user finishes using the editor. Clicking on this button stops the timer and prints the final time spent by the user inside the editor.
 
 By implementing this functionality, users can conveniently start using the text editor directly without the need to manually open it. Additionally, they can monitor the time they spend inside the editor accurately and stop the timer when they finish.
+
+![Video](https://github.com/noone313/vscode-timer-/blob/main/Automatic%20VSCode%20Timer.mp4)
